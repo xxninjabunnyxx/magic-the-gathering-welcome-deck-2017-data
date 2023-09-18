@@ -1,0 +1,18 @@
+---
+object: set
+id: 2027da7f-c82a-4080-af34-4b9edf7c5132
+code: w17
+mtgo_code: w17
+arena_code: w17
+tcgplayer_id: 1930
+name: Welcome Deck 2017
+uri: https://api.scryfall.com/sets/2027da7f-c82a-4080-af34-4b9edf7c5132
+scryfall_uri: https://scryfall.com/sets/w17
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aw17&unique=prints
+released_at: '2017-04-15'
+set_type: starter
+card_count: 30
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/w17.svg?1694404800
